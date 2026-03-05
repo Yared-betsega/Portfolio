@@ -12,7 +12,7 @@ export default function Skills() {
     },
     {
       label: "Data Science & AI",
-      skills: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NLP", "Data Mining", "RLHF", "LLMs"],
+      skills: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "Transformers", "NLP", "Data Mining", "RLHF", "LLMs"],
     },
     {
       label: "DevOps & Tools",

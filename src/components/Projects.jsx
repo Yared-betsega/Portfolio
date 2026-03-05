@@ -5,7 +5,7 @@ import projects from "../data/projects";
 export default function Projects() {
   return (
     <section id="projects" className="py-28 px-6 bg-white dark:bg-[#080b12] transition-colors duration-300">
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-5xl mx-auto">
         <AnimateIn from="up">
           <p className="text-violet-600 dark:text-violet-400 text-sm font-semibold tracking-widest uppercase mb-3">Work</p>
           <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-14">
