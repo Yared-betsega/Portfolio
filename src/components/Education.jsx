@@ -9,7 +9,7 @@ const schools = [
     location: "New York, NY",
     note: "Expected",
     courses: ["Data Mining", "Maths for Data Science", "Algorithms for Data Science", "Machine Learning", "Reinforcement Learning"],
-    highlight: null,
+    highlight: "GPA 4.0 / 4.0",
   },
   {
     institution: "Addis Ababa University (AAiT)",
